@@ -34,6 +34,6 @@ By inputing the ingredients you wish to use in the input bar and clicking search
 
 ## Link To Clean Fridge
 
-Project Link : [https://colemiller21.github.io/Clean-Fridge/](https://colemiller21.github.io/Clean-Fridge/)
+Project Link : https://daniel5075.github.io/clean-fridge/
 
 
